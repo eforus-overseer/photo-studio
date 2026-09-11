@@ -1,0 +1,4 @@
+customtkinter>=6.0,<7
+Pillow>=12.3,<13
+opencv-python-headless>=4.10,<6
+numpy>=2,<3
