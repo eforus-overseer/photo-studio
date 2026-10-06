@@ -192,3 +192,11 @@ Screenshots can be regenerated on macOS with `python tools/capture_studio.py` af
 ## Credits
 
 Created by [eforus-overseer](https://github.com/eforus-overseer). Built with [CustomTkinter](https://customtkinter.tomschimansky.com/), [Pillow](https://pillow.readthedocs.io/), [NumPy](https://numpy.org/), and [OpenCV](https://opencv.org/). The cheerful chocolate Labrador puppy was generated specifically for this project; [its prompt and provenance are included](docs/samples/GENERATED.md).
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/photo-studio/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
